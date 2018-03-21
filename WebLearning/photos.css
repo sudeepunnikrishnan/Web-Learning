@@ -1,0 +1,26 @@
+
+
+/*#one{
+	background-color: red;
+}
+
+#two {
+	background-color: green;
+}*/
+
+img {
+	width: 30%;   /*100px;*/
+	margin: 1.66%;
+	float: left; /*removing white space generated default if any*/
+
+}
+
+p {
+	font-family: Raleway;
+	margin-left: 1.66%;
+	font-size: 23px;
+	font-weight: 700;
+	text-transform: uppercase;
+	border-bottom: 2px solid #f1f1f1;
+	padding-bottom: 20px;
+}

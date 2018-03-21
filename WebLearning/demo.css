@@ -1,0 +1,24 @@
+/*Star all*/
+* {
+	border: 1px solid lightgray;
+}
+/*Decendant Selector*/
+li a {
+	color: rgb(132,132,185);
+}
+
+/*Adjacent Slector*/
+h4+ul {
+	border: 1px solid green;
+}
+
+/*Attribute Selector*/
+a[href = "www.google.com"] {
+	background: rgb(132,157,185);
+}
+
+/*nth type*/
+li:nth-of-type(odd) {
+	background: green
+}
+

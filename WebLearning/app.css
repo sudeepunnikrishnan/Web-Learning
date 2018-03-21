@@ -1,0 +1,23 @@
+h1 {
+		  color: #FF4400;
+		  /*border-color: green;
+		  border-width: 5px;
+		  border-style: solid;*/
+
+		  border: 2px dashed green
+	}
+
+li {
+		  color: rgb(100,200,200);
+   }
+
+ h4 {
+ 	background: #FF0000;
+ }
+
+ body {
+ 	background: pink;
+ 	/*background: url("http://images.indianexpress.com/2017/10/dhoni-759.jpg");
+ 	background-repeat: no-repeat;
+ 	background-size: cover;*/
+ }

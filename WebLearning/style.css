@@ -1,0 +1,75 @@
+
+/*Content width height*/
+
+p {
+	width: 50%;    /*200px;*/
+
+	/*Border*/
+
+	border: 2px solid blue;
+
+	/*Padding*/
+
+	/*padding: 10px;*/
+
+	padding-left: 40px;
+
+	/*Margin*/
+	/*margin: 100px;*/
+
+	/*margin: 20px 40px 500px 100px;*/
+	/*margin: 0 auto 0 auto;*/
+	margin: 0 auto; /* first valus top bottom */
+}
+
+/* font family*/
+
+/*p {
+	font-family: Raleway;
+}
+
+h1 {
+	font-family: Indie Flower;
+}
+
+body {
+	font-size: 10 px;
+}*/
+
+/*font-size */
+/*h1 {
+	font-size: 5.0em;
+}
+
+p {
+	font-size: 1.0em;
+}
+span {
+	font-size: 2.0em;
+}*/
+
+/*font weight*/
+/*p {
+	font-weight: normal;
+}*/
+
+/*line height*/
+/*p {
+	line-height: 1.5;
+}*/
+
+/*Align */
+/*h1 {
+	text-align: right;
+}
+
+p {
+	text-align: center;
+}
+
+p {
+	text-decoration: underline;
+}*/
+
+
+
